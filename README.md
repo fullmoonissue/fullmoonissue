@@ -4,8 +4,8 @@
 
 Document about Speedruns & Tool-Assisted Speedruns.
 
-- [🇺🇸 English](https://fullmoonissue.github.io/tas-about-en.pdf?last_version=2021-08-31)
-- [🇫🇷 Français](https://fullmoonissue.github.io/tas-about-fr.pdf?last_version=2021-08-31)
+- [🇺🇸 English](https://fullmoonissue.github.io/tas-about-en.pdf?last_version=2021-09-27)
+- [🇫🇷 Français](https://fullmoonissue.github.io/tas-about-fr.pdf?last_version=2021-09-27)
 
 ### 🏗️ TAS Scaffolding
 
